@@ -4,8 +4,6 @@ path: "/programs/proof-of-compliance.html"
 id: "programs/proof-of-compliance"
 ---
 
->**Note:** This feature is currently in beta and is only accessible to select programs. To learn more, please contact your program manager.
-
 There are several security standards that require organizations to have a vulnerability disclosure policy (VDP) or bug bounty program (BBP) in place. You can generate a proof of compliance report for your program on HackerOne to prove that your organization has a VDP or BBP. The downloadable statement of attestation meets the requirements necessary to comply with various security standards.
 
 These are some of the security standards that can be met with the statement of attestation:
@@ -13,10 +11,10 @@ These are some of the security standards that can be met with the statement of a
 * [FedRamp](https://www.fedramp.gov/)
 * [UK IoT Code of Practice](https://www.gov.uk/government/publications/code-of-practice-for-consumer-iot-security)
 
-If you’re a federal program that needs to comply with CISA BOD 20-21, you can choose to download the Program performance per asset CSV file and input the data into CyberScope.
+If you’re a federal program that needs to comply with CISA BOD 20-01, you can choose to download the Program performance per asset CSV file and input the data into CyberScope.
 
 To generate your proof of compliance report:
-1. Navigate to **Program Settings > Program > Customization > Proof of Compliance**.
+1. Navigate to **Program Settings > Program > Reports > Proof of Compliance**.
 2. Select the dates that you would like the report to reflect.
 3. Select the documents you want to include in the report. You can choose from:
 
